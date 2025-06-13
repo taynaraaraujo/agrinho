@@ -8,11 +8,8 @@ Cabeçalho (Header):
 * Navegação com links internos para as seções "Os Problemas", "Consequências" e "Conclusão".
 
 #### Problemas:
+No campo, os problemas incluem erosão do solo, poluição, escassez de recursos e desmatamento, além de desafios sociais como a utilização de mão de obra infantil e a exploração do trabalhador rural. Nas cidades, os problemas são mais concentrados em poluição do ar e das águas, aglomeração de pessoas e veículos, problemas de infraestrutura urbana, violência e desigualdade social. 
 
-Seção detalhando os principais problemas gerados pelo desmatamento:
-Aumento das enchentes.
-Calor excessivo e ilhas de calor.
-Redução da qualidade de vida.
 
 #### Consequências:
 
