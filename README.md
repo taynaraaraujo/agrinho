@@ -1,8 +1,5 @@
 # Campo Cidade 
-Este projeto é uma página web informativa sobre os impactos do desmatamento no meio ambiente e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela destruição das florestas, suas consequências e as ações necessárias para mitigar seus efeitos.
-
-### Estrutura do Projeto
-Tecnologias Utilizadas:
+"Campo" e "cidade" referem-se a diferentes tipos de áreas com características distintas, sendo o campo a zona rural e a cidade a zona urbana. 
 HTML: Estrutura principal da página.
 CSS: Estilização visual da página.
 Fontes: Fontes personalizadas para melhorar a legibilidade e o design.
