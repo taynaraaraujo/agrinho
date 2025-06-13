@@ -3,8 +3,8 @@
 
 ### Descrição das Seções:
 Cabeçalho (Header):
-* Título da página com o nome "Impacto do Desmatamento".
-* Parágrafo explicativo sobre como o desmatamento afeta o ambiente e as pessoas.
+* Título da página com o nome "Campo Cidade".
+* Parágrafo explicativo sobre o que é campo cidade.
 * Navegação com links internos para as seções "Os Problemas", "Consequências" e "Conclusão".
 
 #### Problemas:
