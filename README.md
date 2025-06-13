@@ -1,4 +1,4 @@
-# Campo Cidade 
+# Campo e Cidade 
 "Campo" e "cidade" referem-se a diferentes tipos de áreas com características distintas, sendo o campo a zona rural e a cidade a zona urbana. 
 
 ### Descrição das Seções:
