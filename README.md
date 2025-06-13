@@ -1,11 +1,5 @@
 # Campo Cidade 
 "Campo" e "cidade" referem-se a diferentes tipos de áreas com características distintas, sendo o campo a zona rural e a cidade a zona urbana. 
-HTML: Estrutura principal da página.
-CSS: Estilização visual da página.
-Fontes: Fontes personalizadas para melhorar a legibilidade e o design.
-Arquivos:
-index.html: Arquivo principal com a estrutura da página.
-style.css: Arquivo de estilos para formatação da página.
 
 ### Descrição das Seções:
 Cabeçalho (Header):
