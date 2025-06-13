@@ -14,10 +14,8 @@ No campo, os problemas incluem erosão do solo, poluição, escassez de recursos
 
 #### Consequências:
 
-Lista das consequências diretas do desmatamento, como:
-* Aumento das enchentes e erosão do solo.
-* Mudanças climáticas e perda da biodiversidade.
-* Impacto na saúde pública e economia local.
+Lista das consequências diretas do campo e cidade, como:
+ relação entre campo e cidade é complexa e multifacetada, com consequências diretas em ambos os espaços. A migração do campo para a cidade, conhecida como êxodo rural, gera desafios como o superpovoamento urbano, a pressão sobre infraestruturas e a redução da produção agrícola, enquanto a modernização agrícola e a busca por alimentos podem levar a problemas ambientais no campo, como o desmatamento e o uso excessivo de
 
 #### Conclusão:
 
